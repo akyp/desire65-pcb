@@ -15,6 +15,7 @@
  - Rounded tracks
  - [STEP file](./step/desire65-rounded.step) provided with all the components visible
  - Requires KiCad 8 to modify or produce production files
+ - Font used: [Orbitron](https://fonts.google.com/specimen/Orbitron)
  
 ## Firmware
 *To be provided*
