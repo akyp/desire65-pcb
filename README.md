@@ -19,6 +19,7 @@
  
 ## Firmware
  - [VIAL](./release/via)
+
 *QMK and VIA firmware to be provided*
 
 ## Supported Layout
