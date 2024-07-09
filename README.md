@@ -18,7 +18,8 @@
  - Font used: [Orbitron](https://fonts.google.com/specimen/Orbitron)
  
 ## Firmware
-*To be provided*
+ - [VIAL](./release/via)
+*QMK and VIA firmware to be provided*
 
 ## Supported Layout
 ![Supported Layout](./image/supported-layout.png)
