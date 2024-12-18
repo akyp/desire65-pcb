@@ -18,6 +18,8 @@
  - Font used: [Orbitron](https://fonts.google.com/specimen/Orbitron)
  
 ## Firmware
+ - [QMK](https://config.qmk.fm/#/archerkeyboard/desire65/LAYOUT_65_ansi_blocker_tsangan_split_bs)
+ - [VIA](https://www.caniusevia.com/docs/download_firmware)
  - [VIAL](./release/via)
 
 *QMK and VIA firmware to be provided*
