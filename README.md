@@ -8,7 +8,7 @@
  - [UDB (Unified DB)](https://unified-daughterboard.github.io) compatibility (JST-SH variant)
  - Hotswap
  - Underglow RGB LEDs
- - Header for in-switch Caps Lock LED (currently configured in firmware as backlight)
+ - Header for in-switch Caps Lock LED (alternative firmware to use it as backlight to be provided)
  - RP2040 MCU
  - QMK/VIA/Vial firmware
  - Holes under 2u stabilizers to facilitate proper keycap installation on long-pole switches
