@@ -22,8 +22,6 @@
  - [VIA](https://www.caniusevia.com/docs/download_firmware)
  - [VIAL](./release/via)
 
-*QMK and VIA firmware to be provided*
-
 ## Supported Layout
 ![Supported Layout](./image/supported-layout.png)
 
