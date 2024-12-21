@@ -20,7 +20,7 @@
 ## Firmware
  - [QMK](https://config.qmk.fm/#/archerkeyboard/desire65/LAYOUT_65_ansi_blocker_tsangan_split_bs)
  - [VIA](https://www.caniusevia.com/docs/download_firmware)
- - [VIAL](./release/via)
+ - [VIAL (with the Caps Lock footprint configured as QMK Backlighting instead)](https://github.com/akyp/desire65-pcb/releases/tag/v1.0_vial_bl)
 
 ## Supported Layout
 ![Supported Layout](./image/supported-layout.png)
